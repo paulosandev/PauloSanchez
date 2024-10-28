@@ -120,4 +120,3 @@ Para iniciar el entorno de desarrollo:
 ## 💬 Contribuciones
 
 ¡Gracias por probar esta aplicación! Tu retroalimentación es clave para seguir mejorando. 😊
-```
