@@ -115,6 +115,10 @@ Para iniciar el entorno de desarrollo:
 - **Login**: [http://127.0.0.1:8000/login](http://127.0.0.1:8000/login) - Para autenticarse en la aplicación 🔑
 - **Dashboard**: [http://127.0.0.1:8000/dashboard](http://127.0.0.1:8000/dashboard) - Página accesible solo para usuarios autenticados 🔒
 
+  ## 👤 Usuarios generados:
+- email: francisco.mora@burben.mx password: Admin1234?
+- email: andrei.zaragoza@burben.mx password: Admin1234?
+
 ---
 
 ## 💬 Contribuciones
