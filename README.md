@@ -1,7 +1,10 @@
 ```markdown
 # 🌐 PauloSanchez App - Prueba Técnica
 
-¡Bienvenido al repositorio de la prueba técnica de **PauloSanchez App**! 🚀 Este proyecto está diseñado para demostrar habilidades en el desarrollo de aplicaciones web full-stack, utilizando **Laravel** en el backend y **Vue** en el frontend, con autenticación JWT y un diseño responsivo basado en **Bootstrap**.
+¡Bienvenido al repositorio de la prueba técnica de **PauloSanchez App**! 🚀 
+Este proyecto está diseñado para demostrar habilidades en el desarrollo de aplicaciones web full-stack, 
+utilizando **Laravel** en el backend y **Vue** en el frontend, con autenticación JWT 
+y un diseño responsivo basado en **Bootstrap**.
 
 ---
 
@@ -29,7 +32,8 @@ Este proyecto emplea las siguientes tecnologías y herramientas:
 - **Frontend**: Vue 3, Vite ⚡, Inertia, Bootstrap 🎨
 - **Gestión de Paquetes**: Composer 📦, npm 📦
 
-> **Requisitos previos**: Asegúrate de tener instalados **Composer**, **npm** y **MariaDB** (o un gestor de base de datos compatible).
+> **Requisitos previos**: Asegúrate de tener instalados **Composer**, **npm** 
+y **MariaDB** (o un gestor de base de datos compatible).
 
 ---
 
@@ -68,7 +72,8 @@ Para configurar el entorno, instala las dependencias de Laravel y Vue:
    cp .env.example.local .env
    ```
 
-2. Configura las variables de conexión de la base de datos en el archivo `.env`. Se recomienda utilizar el nombre `testPauloSanchez` para la base de datos.
+2. Configura las variables de conexión de la base de datos en el 
+archivo `.env`. Se recomienda utilizar el nombre `testPauloSanchez` para la base de datos.
 
 ### 3. Generación de Clave de Cifrado
 
