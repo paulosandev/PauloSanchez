@@ -1,4 +1,3 @@
-```markdown
 # 🌐 PauloSanchez App - Prueba Técnica
 
 ¡Bienvenido al repositorio de la prueba técnica de **PauloSanchez App**! 🚀 
